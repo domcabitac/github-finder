@@ -7,6 +7,9 @@ const RepoItem = ({ repo }) => {
       <h3>
         <a href={repo.html_url} target='_blank' rel='noopener noreferrer'>
           {repo.name}
+          <small>
+            <i>{' - ' + repo.language}</i>
+          </small>
         </a>
       </h3>
     </div>

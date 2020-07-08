@@ -3,9 +3,17 @@ import React from 'react';
 const About = () => {
   return (
     <div>
-      <h1>about this app</h1>
-      <p>app to search github users</p>
-      <p>Version: 1.0.0</p>
+      <h1>About this Web App</h1>
+      <p>Website that searches github users</p>
+      <br></br>
+      <a
+        class='btn'
+        href='https://github.com/domcabitac/github-finder'
+        target='_blank'
+        rel='noopener noreferrer'
+      >
+        Github Link
+      </a>
     </div>
   );
 };
