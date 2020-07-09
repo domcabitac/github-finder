@@ -4,6 +4,10 @@ This project is in collaboration with the [React Front and Back](https://www.ude
 
 ---
 
+![](Demo.gif)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
